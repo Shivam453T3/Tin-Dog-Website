@@ -1,0 +1,165 @@
+#title {
+    background-color: #ff4c68;
+}
+ h1{
+    font-family:'Lobster', cursive;
+    font-size: 3rem;
+    line-height: 1.5;
+ }
+
+ .container-fluid{
+    padding: 3% 15%;
+
+ }
+ h1{
+   padding-top: 100px;
+   font-weight: bold;
+   font-size: 3.2rem;
+   color: aliceblue;
+ }
+ 
+ .navbar-brand{
+   font-weight: bold;
+   font-size: 3rem;
+ }
+ .navbar{
+   padding: 0 0  4.5rem;
+ }
+ .nav-item{
+   padding: 0 18px;
+ }
+ .nav-link{
+   font-size: 1.2rem;
+ }
+ 
+ 
+ /* download button */
+ 
+ .download-button{
+  margin: 5% 3% 5% 0;
+   
+ }
+
+
+ .title-image-div{
+  position: relative;
+ }
+
+ #title {
+  text-align: center;
+ }
+
+ .title-image{
+  padding-left: 50px;
+  width: 70%;
+  transform: rotate(25deg);
+  position: absolute;
+
+ }
+
+ #features{
+  padding: 7%  15%;
+  background-color: white;
+  position: relative;
+ }
+
+ .Features-box{
+  text-align: center;
+  padding: 5%;
+ }
+  
+    h2{
+      font-family: 'Anton', sans-serif;
+      font-size: 3rem;
+      line-height: 1.5;
+    }
+
+    /*cta */
+
+    #cta{
+      background-color: #ff4c68;
+      color: #fff;
+      padding: 7% 15%;
+      text-align: center;
+    }
+    .cta-heading{
+      font-family:"Montserrat-Black" ;
+      font-size: 3.5rem ;
+      line-height: 1.5;
+      font-weight: bold;
+    }
+
+   /*footer*/
+
+   #footer{
+    padding: 7% 15%;
+    text-align: center;
+   }
+
+   .social-icon{
+    margin: 20px 10px;
+   }
+
+
+
+ h3{
+      font-family: 'Anton', sans-serif;    
+ }
+
+ p{
+  color: gray;
+ }
+
+ .icon{
+  color: #ef8172;
+  margin: 2rem;
+ }
+
+ .icon:hover{
+  color: #ff4c68;
+ }
+
+
+ /* Testimonial Section */ 
+
+ #testimonials{
+  padding: 7% 15%;
+  background-color: #ff4c68;
+  text-align: center;
+  color: white;
+ }
+
+ .testimonials-image{
+  width: 15%;
+  border-radius: 100%;
+ }
+
+ #press{
+  background-color: #ff4c68;
+  text-align: center;
+  padding-bottom: 3rem;
+ }
+
+ .press-img{
+  width: 15%;
+  margin:  20px 20px 50px;
+ }
+
+ .carousel-item{
+  padding: 7% 15%;
+ }
+
+
+ /* pricing table */
+
+ #pricing{
+  text-align: center;
+  
+ }
+
+ .card{
+  height: 100%;
+ }
+
+ @media (max-width:120px)
+
